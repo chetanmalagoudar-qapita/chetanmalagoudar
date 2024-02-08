@@ -1,10 +1,10 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*xpBuOfOAQ4J8D1vAyncmbg.gif)
 
 <!-- Typing Animation and Introduction -->
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=70&duration=4000&lines=Hello+👋;I'm+Chetan+Malagoudar+from+India🇮🇳;A+DevOps+Engineer+and+cloud+enthusiast;" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=70&duration=4000&lines=Hello+👋;I'm+Chetan+Malagoudar+from+India🇮🇳;A+Software+Engineer+and+cloud+enthusiast;" /></h1>
 
 <!-- Main Introduction -->
-<h3 align="center">DevOps Engineer passionate about cloud technologies and automation for streamlined and efficient workflows.</h3>
+<h3 align="center">Software Engineer passionate about cloud technologies and automation for streamlined and efficient workflows.</h3>
 
 <!-- Gif Image on the Right -->
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
